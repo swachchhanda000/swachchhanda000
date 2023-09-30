@@ -19,6 +19,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=swachchhanda000&show_icons=true&count_private=true&theme=dracula&custom_title=Github%20Stats&title_color=blue&hide_border=true" alt="swachchhanda000" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swachchhanda000&show_icons=true&locale=en" alt="swachchhanda000" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swachchhanda000&" alt="swachchhanda000" /></p>
