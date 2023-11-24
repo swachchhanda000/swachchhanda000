@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Swachchhanda Shrawan Poudel</h1>
 <h3 align="center">A passionate Security Researcher focusing on Threat Hunting</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=swachchhanda000&label=Profile%20views&color=0e75b6&style=flat" alt="swachchhanda000" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swachchhanda000" alt="swachchhanda000" /></a> </p>
 
