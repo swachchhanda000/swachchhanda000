@@ -1,22 +1,36 @@
-<h1 align="center">Hi 👋, I'm Swachchhanda Shrawan Poudel</h1>
-<h3 align="center">A passionate Security Researcher focusing on Threat Hunting</h3>
+# 👋 Hi, I'm Swachchhanda Shrawan Poudel
+
+I'm a **Detection Engineer** | **Threat Researcher** with a deep focus on **Emerging Threats Research**, **Malware Analysis**, and **Detection Engineering**. I specialize in building and improving detection capabilities for advanced threats and malware. Currently, I am working at **Nextron Systems**, where I focus on **Sigma rules** and detection research.
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swachchhanda000" alt="swachchhanda000" /></a> </p>
+[![Swachchhanda Shrawan Poudel GitHub Stats](https://github-readme-stats.vercel.app/api?username=swachchhanda000&count_private=true&show_icons=true&theme=dark&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="left"> <a href="https://twitter.com/_swachchhanda_" target="blank"><img src="https://img.shields.io/twitter/follow/_swachchhanda_?logo=twitter&style=for-the-badge" alt="_swachchhanda_" /></a> </p>
+## 🔍 About Me
 
-- 📫 How to reach me **swachchhandashrawan@gmail.com**
+- 💼 **Current Role:** Detection Engineer | Threat Researcher at [Nextron Systems](https://www.nextron-systems.com)
+- 🔬 **Specialization:**
+  - **Sigma Rules**: Writing and optimizing detection rules for SIEM and other platforms.
+  - **Detection Engineering**: Building detection mechanisms and improving security posture through advanced techniques.
+  - **Malware Analysis**: Analyzing malicious software and understanding attack techniques to improve detection capabilities.
+  - **DIFR** (Dynamic Incident and Forensic Response): Engaging in incident response, analysis, and forensics for rapid detection and mitigation of threats.
+- 🧠 **Learning Focus:** Advancing my skills in malware analysis, reverse engineering, YARA, Windows internals, and building real-time threat detection systems.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/_swachchhanda_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_swachchhanda_" height="30" width="40" /></a>
-</p>
+## 📜 What I'm Working On
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=swachchhanda000&show_icons=true&count_private=true&theme=dracula&custom_title=Github%20Stats&title_color=blue&hide_border=true" alt="swachchhanda000" /></p>
+- Writing and optimizing **Sigma rules** for various detection platforms.
+- Analyzing **malware** and crafting new detection strategies.
+- Contributing to the open-source **Sigma project** to help the security community stay ahead of evolving cyber threats.
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swachchhanda000&" alt="swachchhanda000" /></p>
+## 📚 Projects & Contributions
+
+- [**Sigma Rules Repository**](https://github.com/SigmaHQ/sigma) - Contributing to improving and expanding the Sigma ruleset.
+- [**Emerging Threat and Research Blog**](https://www.logpoint.com/en/author/swachchhanda/) - Sharing insights on emerging threats or malware analysis and detection strategies.
+
+## 🚀 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/swachchhanda-shrawan-poudel-28447a1b6/)
+- 🐦 [Twitter](https://twitter.com/_swachchhanda_)
+  
+Feel free to reach out if you're working on something interesting in threat research, detection engineering, or malware analysis!
+
