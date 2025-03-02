@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Swachchhanda Shrawan Poudel
+# 👋 Hi, I'm Swachchhanda 
 
 ![Mountain](https://github.com/user-attachments/assets/27917685-3be4-4b28-add4-2965925dc2c6)
 
