@@ -1,5 +1,10 @@
 # 👋 Hi, I'm Swachchhanda Shrawan Poudel
 
+![Mountain](https://github.com/user-attachments/assets/27917685-3be4-4b28-add4-2965925dc2c6)
+
+*From the Land of Himalayas – Born in the shadow of Mountains, where every challenge is a step towards greater heights!*
+
+
 I'm a **Detection Engineer** | **Threat Researcher** with a deep focus on **Emerging Threats Research**, **Malware Analysis**, and **Detection Engineering**. I specialize in building and improving detection capabilities for advanced threats and malware. Currently, I am working at **Nextron Systems**, where I focus on **Sigma rules** and detection research.
 
 
